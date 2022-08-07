@@ -1,0 +1,3 @@
+com\dwadek\dubbo\service\impl\UserServiceImpl.class
+com\dwadek\dubbo\model\User.class
+com\dwadek\dubbo\service\UserService.class
